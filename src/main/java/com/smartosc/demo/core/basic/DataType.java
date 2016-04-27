@@ -15,7 +15,7 @@ public class DataType {
     char charTyep; // 2 bytes
     boolean booleanType;  // 1 bytes
 
-    // Reference type: class, interface, arrays
+    // Reference type: class, interfacekeyword, arrays
     int array[] = {3, 4, 5};
     float arrayFloat[] = {4, 5};
 
