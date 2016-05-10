@@ -20,6 +20,6 @@ public class CastingDemo {
         // It's ok when use
         Animal animalDownOk = new Dog();
         Dog dogDownOk = (Dog) animalDownOk;
-
+        dogDownOk.show();
     }
 }
