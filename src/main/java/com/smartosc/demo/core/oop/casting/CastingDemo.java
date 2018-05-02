@@ -21,5 +21,6 @@ public class CastingDemo {
         Animal animalDownOk = new Dog();
         Dog dogDownOk = (Dog) animalDownOk;
         dogDownOk.show();
+
     }
 }

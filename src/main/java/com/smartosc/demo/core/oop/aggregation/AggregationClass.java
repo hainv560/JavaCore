@@ -1,5 +1,4 @@
 package com.smartosc.demo.core.oop.aggregation;
-
 /**
  * Created by smartosc on 4/27/2016.
  */
